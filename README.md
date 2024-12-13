@@ -1,9 +1,9 @@
 // user api
-get all suer  http://localhost:5000/api/v1/user
+* get all suer  http://localhost:5000/api/v1/user
 get single user  http://localhost:5000/api/v1/suer/abc@gmail.com
 get update user   http://localhost:5000/api/v1/user/update user
 get delete user  http://localhost:5000/api/v1/user/delete-user
-get reomove user  http://localhost:5000/api/v1/user/remove-suer
+get reomove user  http://localhost:5000/api/v1/user/remove-suer *
 
 
 
